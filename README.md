@@ -153,6 +153,6 @@ https://github.com/Rajpatel2924/PolicyGuard
 
 <div align="center">
 
-### ⭐ “Building impactful technology, solving hard problems, and learning relentlessly.”
+### ⭐ “Obsessed with building, learning, and pushing beyond limits.””
 
 </div>
