@@ -117,6 +117,19 @@ Offline Policy Gap Analysis & Improvement Module powered using Local LLMs.
 🔗 GitHub:
 https://github.com/Rajpatel2924/PolicyGuard
 
+## 🩺 BioBalance
+
+AI-inspired wellness tracking and personalized meal guidance system.
+
+### 🔹 Features
+
+* Authentication System
+* Wellness Dashboard
+* Smart Meal Recommendation Engine
+* Family Care Sharing
+
+🔗 GitHub:
+https://github.com/Rajpatel2924/Biobalance
 
 ---
 
