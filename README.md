@@ -100,7 +100,7 @@ Women safety and emergency assistance platform focused on accessibility, quick r
 </td>
 <td width="45%" align="center">
 
-<img src="assets/resq-her.png"
+<img src="assets/resqher.png"
      width="100%"
      alt="ResQ-Her Screenshot"/>
 
