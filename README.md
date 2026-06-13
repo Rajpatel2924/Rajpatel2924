@@ -98,13 +98,15 @@ Women safety and emergency assistance platform focused on accessibility, quick r
 * JavaScript
 
 </td>
-<td width="45%" align="center">
+<tr>
+  <td colspan="2" align="center">
 
-<img src="assets/resqher.png"
-     width="100%"
-     alt="ResQ-Her Screenshot"/>
+  <img src="./assets/resqher.png"
+       width="100%"
+       alt="ResQ-Her Screenshot"/>
 
-</td>
+  </td>
+</tr>
 </tr>
 </table>
 
@@ -143,13 +145,15 @@ Luxury fashion eCommerce platform built using Next.js, Clerk, and Razorpay.
 * Vercel
 
 </td>
-<td width="45%" align="center">
+<tr>
+  <td colspan="2" align="center">
 
-<img src="assets/rajgharana.png"
-     width="100%"
-     alt="Rajgharana Screenshot"/>
+  <img src="./assets/rajgharana.png"
+       width="100%"
+       alt="RajGharana Screenshot"/>
 
-</td>
+  </td>
+</tr>
 </tr>
 </table>
 
@@ -191,13 +195,15 @@ Offline Policy Gap Analysis & Improvement Module powered using Local LLMs.
 * SQLite
 
 </td>
-<td width="45%" align="center">
+<tr>
+  <td colspan="2" align="center">
 
-<img src="assets/policyguard.png"
-     width="100%"
-     alt="PolicyGuard Screenshot"/>
+  <img src="./assets/policyguard.png"
+       width="100%"
+       alt="PolicyGuard Screenshot"/>
 
-</td>
+  </td>
+</tr>
 </tr>
 </table>
 
@@ -236,13 +242,15 @@ AI-inspired wellness tracking and personalized meal guidance system.
 * Tailwind CSS
 
 </td>
-<td width="45%" align="center">
+<tr>
+  <td colspan="2" align="center">
 
-<img src="assets/biobalance.png"
-     width="100%"
-     alt="BioBalance Screenshot"/>
+  <img src="./assets/biobalance.png"
+       width="100%"
+       alt="BioBalance Screenshot"/>
 
-</td>
+  </td>
+</tr>
 </tr>
 </table>
 
@@ -286,13 +294,15 @@ A scalable full-stack real-time communication platform built with WebSockets and
 * Vercel & Render
 
 </td>
-<td width="45%" align="center">
+<tr>
+  <td colspan="2" align="center">
 
-<img src="assets/nextalk.png"
-     width="100%"
-     alt="NexTalk Screenshot"/>
+  <img src="./assets/nextalk.png"
+       width="100%"
+       alt="NexTalk Screenshot"/>
 
-</td>
+  </td>
+</tr>
 </tr>
 </table>
 
