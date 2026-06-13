@@ -72,14 +72,43 @@ and building innovative hackathon projects.
 
 Women safety and emergency assistance platform focused on accessibility, quick response, and safety solutions.
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 ### 🔹 Features
 
-* Emergency SOS system
-* Accessibility-focused UI
-* Fast response assistance
-* Real-time safety support concepts
+* Emergency SOS System
+* Accessibility-Focused UI
+* Fast Response Assistance
+* Real-Time Safety Support
+* User-Friendly Design
 
-🔗 GitHub:
+</td>
+
+<td valign="top" width="40%">
+
+### 🛠 Tech Stack
+
+* React.js
+* Node.js
+* MongoDB
+* Express.js
+* Tailwind CSS
+* JavaScript
+
+</td>
+<td width="45%" align="center">
+
+<img src="assets/resq-her.png"
+     width="100%"
+     alt="ResQ-Her Screenshot"/>
+
+</td>
+</tr>
+</table>
+
+🔗 **GitHub:**
 https://github.com/Rajpatel2924/ResQ-Her
 
 ---
@@ -88,17 +117,46 @@ https://github.com/Rajpatel2924/ResQ-Her
 
 Luxury fashion eCommerce platform built using Next.js, Clerk, and Razorpay.
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 ### 🔹 Features
 
-* Modern premium UI
-* Authentication with Clerk
-* Online payments with Razorpay
-* Responsive luxury shopping experience
+* Modern Premium UI
+* Secure Authentication
+* Online Payments
+* Product Management
+* Responsive Shopping Experience
 
-🔗 GitHub:
+</td>
+
+<td valign="top" width="40%">
+
+### 🛠 Tech Stack
+
+* Next.js
+* Clerk Authentication
+* Razorpay
+* MongoDB
+* Tailwind CSS
+* Vercel
+
+</td>
+<td width="45%" align="center">
+
+<img src="assets/rajgharana.png"
+     width="100%"
+     alt="Rajgharana Screenshot"/>
+
+</td>
+</tr>
+</table>
+
+🔗 **GitHub:**
 https://github.com/Rajpatel2924/RajGharana
 
-🌐 Live Website:
+🌐 **Live Website:**
 https://raj-gharana.vercel.app/
 
 ---
@@ -107,29 +165,142 @@ https://raj-gharana.vercel.app/
 
 Offline Policy Gap Analysis & Improvement Module powered using Local LLMs.
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 ### 🔹 Features
 
-* AI-based policy analysis
-* Offline LLM integration
-* Policy gap identification
-* Smart recommendation engine
+* AI-Based Policy Analysis
+* Offline LLM Integration
+* Policy Gap Detection
+* Recommendation Engine
+* Secure Offline Processing
 
-🔗 GitHub:
+</td>
+
+<td valign="top" width="40%">
+
+### 🛠 Tech Stack
+
+* Python
+* Local LLMs
+* Machine Learning
+* NLP
+* Streamlit
+* SQLite
+
+</td>
+<td width="45%" align="center">
+
+<img src="assets/policyguard.png"
+     width="100%"
+     alt="PolicyGuard Screenshot"/>
+
+</td>
+</tr>
+</table>
+
+🔗 **GitHub:**
 https://github.com/Rajpatel2924/PolicyGuard
+
+---
 
 ## 🩺 BioBalance
 
 AI-inspired wellness tracking and personalized meal guidance system.
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 ### 🔹 Features
 
 * Authentication System
 * Wellness Dashboard
-* Smart Meal Recommendation Engine
+* Smart Meal Recommendations
 * Family Care Sharing
+* Health Tracking
 
-🔗 GitHub:
+</td>
+
+<td valign="top" width="40%">
+
+### 🛠 Tech Stack
+
+* React.js
+* Node.js
+* MongoDB
+* Express.js
+* JWT Authentication
+* Tailwind CSS
+
+</td>
+<td width="45%" align="center">
+
+<img src="assets/biobalance.png"
+     width="100%"
+     alt="BioBalance Screenshot"/>
+
+</td>
+</tr>
+</table>
+
+🔗 **GitHub:**
 https://github.com/Rajpatel2924/Biobalance
+
+---
+
+## 💬 NexTalk
+
+A scalable full-stack real-time communication platform built with WebSockets and WebRTC, enabling seamless messaging, voice calls, and video calls in a modern and responsive interface.
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+### 🔹 Features
+
+* Real-Time One-to-One Messaging
+* Online Presence & Typing Indicators
+* Read Receipts & Message Synchronization
+* Secure JWT Authentication
+* Voice Calling using WebRTC
+* Video Calling using WebRTC
+* Responsive Dark & Light Mode UI
+* Production Deployment on Vercel & Render
+
+</td>
+
+<td valign="top" width="40%">
+
+### 🛠 Tech Stack
+
+* React.js
+* FastAPI
+* PostgreSQL
+* WebSocket
+* WebRTC
+* JWT Authentication
+* Tailwind CSS
+* Vercel & Render
+
+</td>
+<td width="45%" align="center">
+
+<img src="assets/nextalk.png"
+     width="100%"
+     alt="NexTalk Screenshot"/>
+
+</td>
+</tr>
+</table>
+
+🔗 **GitHub:**
+https://github.com/Rajpatel2924/NexTalk
+
+🌐 **Live Website:**
+https://nex-talk-2k26.vercel.app/
 
 ---
 
