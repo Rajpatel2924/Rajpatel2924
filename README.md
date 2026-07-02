@@ -175,7 +175,7 @@ Your private AI wellness companion designed for Gen Z, providing empathetic conv
 https://github.com/Rajpatel2924/Velora
 
 🌐 **Live Website:**
-https://YOUR-LIVE-LINK.vercel.app/
+ https://velora-one-kappa.vercel.app/
 
 ---
 ## 👑 RajGharana
