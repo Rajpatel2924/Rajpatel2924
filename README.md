@@ -126,7 +126,58 @@ Women safety and emergency assistance platform focused on accessibility, quick r
 https://github.com/Rajpatel2924/ResQ-Her
 
 ---
+---
 
+# 🧠 Velora
+
+Your private AI wellness companion designed for Gen Z, providing empathetic conversations, mood tracking, journaling, breathing exercises, and personalized wellness insights powered by Claude AI.
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+</p>
+
+### ✨ Features
+
+<p>
+  <img src="https://img.shields.io/badge/AI_Wellness_Companion-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mood_Tracking-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Private_Journaling-14B8A6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Breathing_Exercises-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Daily_Check--ins-F97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Insights-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Claude_4.5-4F46E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Responsive_UI-EC4899?style=flat-square" />
+  <img src="https://img.shields.io/badge/Secure_Authentication-111827?style=flat-square" />
+</p>
+
+<table>
+<tr>
+<td colspan="2" align="center">
+
+<img src="./assets/velora.png"
+     width="100%"
+     alt="Velora Screenshot"/>
+
+</td>
+</tr>
+</table>
+
+🔗 **GitHub:**
+https://github.com/Rajpatel2924/Velora
+
+🌐 **Live Website:**
+https://YOUR-LIVE-LINK.vercel.app/
+
+---
 ## 👑 RajGharana
 
 Luxury fashion eCommerce platform built using Next.js, Clerk, and Razorpay.
