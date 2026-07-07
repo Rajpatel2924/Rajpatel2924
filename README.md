@@ -47,7 +47,7 @@ and building innovative hackathon projects.
 
 # 🏆 Achievements
 
-* 💻 Solved **250+ LeetCode Problems**
+* 💻 Solved **240+ LeetCode Problems**
 * 🎖 Certified **Oracle Foundation Associate**
 * 🏅 Participant — **HACKIIT KANPUR 2026**
 * 🚀 Built multiple Full Stack & AI-powered projects
