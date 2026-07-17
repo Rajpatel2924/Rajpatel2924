@@ -47,7 +47,7 @@ and building innovative hackathon projects.
 
 # 🏆 Achievements
 
-* 💻 Solved **240+ LeetCode Problems**
+* 💻 Solved **250+ LeetCode Problems**
 * 🎖 Certified **Oracle Foundation Associate**
 * 🏅 Participant — **HACKIIT KANPUR 2026**
 * 🚀 Built multiple Full Stack & AI-powered projects
@@ -365,7 +365,7 @@ https://nex-talk-2k26.vercel.app/
 
 # 🏅 Competitive Programming
 
-* 🔹 Solved **240+ DSA Problems**
+* 🔹 Solved **250+ DSA Problems**
 * 🔹 Active on LeetCode & CP Platforms
 * 🔹 Focused on mastering Algorithms & Interview Preparation
 * 🔹 Passionate about problem-solving and optimization
